@@ -1,0 +1,51 @@
+h1, h2{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(158, 99, 198);
+    margin-bottom: 15px;
+}
+.bigcontainer{
+    text-align: center;
+    width: 305px;
+    height: 168px;
+    color: rgb(158, 99, 198);
+    margin-left: 185px;
+    margin-top: 42px;
+    background-color: rgb(166, 126, 193);
+    border: 2px solid rgb(166, 126, 193);
+    border-radius: 30px;
+    padding-top: 43px;
+}
+
+input{
+    width: 196px;
+    margin-top: 5px;
+    background-color: rgb(210, 181, 228);
+    color: rgb(158, 99, 198);
+    border-radius: 30px;
+    border: 2px solid rgb(210, 181, 228);
+}
+button{
+    margin-top: 10px;
+    background-color: rgb(210, 181, 228);
+    color: rgb(156, 89, 200);
+    border: 2px solid rgb(210, 181, 228);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.bigsection{
+    background-color: rgb(210, 181, 228);
+    border: 2px solid rgb(210, 181, 228);
+    border-radius: 30px;
+    width: 674px;
+    text-align: center;
+    /* height: 516px; */
+    margin-left: 350px;
+}
+#weatherimg{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto 10px;
+  margin-bottom: 0;
+  display: none;  
+}
